@@ -2,6 +2,7 @@ import java.util.NoSuchElementException;
 
 public class Oblig1 {
 
+    //Oppgave 1a
     public static int maks(int[] a) {
         int maks = a[0];
 
