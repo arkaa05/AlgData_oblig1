@@ -1,5 +1,12 @@
 import java.util.NoSuchElementException;
 
+/**
+ * Obligatorisk oppgave 1 i Algoritmer og datastruktur
+ * Armin Karadzic - s305045
+ *
+ */
+
+
 public class Oblig1 {
 
     //Oppgave 1a
